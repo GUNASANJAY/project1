@@ -1,0 +1,28 @@
+html{
+    background-image: url("d390f2f8-3b65-4ab1-8c0a-7416637be683.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ img{
+  height: 200px;
+  border-radius: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+ }
+.para{
+  background: -webkit-linear-gradient(#02ec63, #f105ca);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.letter{
+    background: -webkit-linear-gradient(#8e02ec, #f19e04);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
+.pad{
+   padding-bottom: 200px;   
+}
